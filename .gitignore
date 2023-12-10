@@ -1,0 +1,11 @@
+logs/
+plugins/
+.env
+notes/
+venv/
+redshift/
+__pycache__/
+airflow/
+airflow-spark-docker.ps1
+.metals/
+.vscode/
