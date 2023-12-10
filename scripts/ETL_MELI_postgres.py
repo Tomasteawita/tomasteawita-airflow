@@ -1,5 +1,4 @@
-from ETLs.MicrowavesETL import MicrowavesETL
-
+from .ETLs.MicrowavesETL import MicrowavesETL
 if __name__ == '__main__':
     
     postgres_config = {
